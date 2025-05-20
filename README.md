@@ -1,1 +1,1 @@
-# javasript
+# javasrcipt
